@@ -17,3 +17,4 @@ layout: default
 - Death to False Metal: 2010-11-02
 - Everything Will Be Alright in the End: 2014-10-07
 - Weezer (White Album): 2016-04-01
+- Pacific Daydream: 2017-10-27
