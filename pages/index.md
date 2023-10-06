@@ -22,7 +22,7 @@ layout: default
 - Weezer (Black Album) – 2019-03-01
 - OK Human – 2021-01-29
 - Van Weezer – 2021-05-07
-- SZNZ: Spring - 2022-03-20
+- SZNZ: Spring – 2022-03-20
 - SZNZ: Spring – 2022-06-21
 - SZNZ: Autumn – 2022-09-22
 - SZNZ: Winter – 2022-12-21
