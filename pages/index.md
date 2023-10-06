@@ -21,3 +21,4 @@ layout: default
 - Weezer (Teal Album): 2019-01-24
 - Weezer (Black Album): 2019-03-01
 - OK Human: 2021-01-29
+- Van Weezer: 2021-05-07
