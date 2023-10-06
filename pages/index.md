@@ -20,3 +20,4 @@ layout: default
 - Pacific Daydream: 2017-10-27
 - Weezer (Teal Album): 2019-01-24
 - Weezer (Black Album): 2019-03-01
+- OK Human: 2021-01-29
