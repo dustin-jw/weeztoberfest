@@ -6,8 +6,6 @@ layout: default
 
 # Weeztoberfest
 
-<!-- <<<<<<< HEAD -->
-
 - Weezer (Blue Album): 1994-05-10
 - Pinkerton: 1996-09-24
 - Weezer (Green Album): 2001-05-15
@@ -17,3 +15,4 @@ layout: default
 - Raditude: 2009-10-30
 - Hurley: 2010-09-14
 - Death to False Metal: 2010-11-02
+- Everything Will Be Alright in the End: 2014-10-07
