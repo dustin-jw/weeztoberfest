@@ -10,3 +10,5 @@ layout: default
 - Pinkerton
 - Weezer (Green Album)
 - Maladroit
+- Make Believe
+- Weezer (Red Album)
