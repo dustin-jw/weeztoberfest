@@ -25,3 +25,4 @@ layout: default
 - SZNZ: Spring - 2022-03-20
 - SZNZ: Spring – 2022-06-21
 - SZNZ: Autumn – 2022-09-22
+- SZNZ: Winter – 2022-12-21
