@@ -1,9 +1,9 @@
 ---
-title: Home
-description: This is the home page.
+title: Weeztoberfest
+description: This is the collected works of Weezer in chronological order.
 layout: default
 ---
 
-# Home Page
+# Weeztoberfest
 
-This is the home page.
+- Weezer

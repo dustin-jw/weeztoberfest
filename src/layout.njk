@@ -26,7 +26,7 @@
     {% block header %}
       {% include 'partials/header.njk' %}
     {% endblock %}
-    <main id="main-content">
+    <main id="main-content" class="obj-width-limiter">
       {% block content %}
         {{ content | safe }}
       {% endblock %}
