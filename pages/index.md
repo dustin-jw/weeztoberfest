@@ -6,5 +6,5 @@ layout: default
 
 # Weeztoberfest
 
-- Weezer
+- Weezer (Blue Album)
 - Pinkerton
