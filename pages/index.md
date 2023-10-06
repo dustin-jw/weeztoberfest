@@ -23,3 +23,4 @@ layout: default
 - OK Human – 2021-01-29
 - Van Weezer – 2021-05-07
 - SZNZ: Spring - 2022-03-20
+- SZNZ: Spring – 2022-06-21
