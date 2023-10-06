@@ -22,7 +22,13 @@ layout: default
 - Maladroit: 2002
 - Make Believe: 2005
 - Weezer (Red Album): 2008
+<<<<<<< HEAD
 - Raditude: 2009 -->
 - Hurley: 2010-09-14
   <!-- > > > > > > > a61479e (They just named it after a fictional guy that they liked) -->
 - Death to False Metal: 2010-11-02
+=======
+- Raditude: 2009
+- Hurley: 2010
+- Death to False Metal: 2010
+>>>>>>> 7fe4677 (Two in one year?!)
