@@ -19,3 +19,4 @@ layout: default
 - Weezer (White Album): 2016-04-01
 - Pacific Daydream: 2017-10-27
 - Weezer (Teal Album): 2019-01-24
+- Weezer (Black Album): 2019-03-01
