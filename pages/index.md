@@ -9,3 +9,4 @@ layout: default
 - Weezer (Blue Album)
 - Pinkerton
 - Weezer (Green Album)
+- Maladroit
