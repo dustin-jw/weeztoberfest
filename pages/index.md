@@ -16,3 +16,4 @@ layout: default
 - Hurley: 2010-09-14
 - Death to False Metal: 2010-11-02
 - Everything Will Be Alright in the End: 2014-10-07
+- Weezer (White Album): 2016-04-01
