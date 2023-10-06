@@ -1,6 +1,6 @@
-# Eleventy Starter Lite
+# Weeztoberfest
 
-A minimal starter template for building a site with Eleventy. For those who prefer to add tools when needed rather than delete boilerplate. [Create a new repository from this template](https://github.com/dustin-jw/eleventy-starter-lite/generate).
+A minimal starter template for building a site with Eleventy. For those who prefer to add tools when needed rather than delete boilerplate. [Create a new repository from this template](https://github.com/dustin-jw/weeztoberfest/generate).
 
 This template is meant for the lazy developer, and the default configurations should _just work_ for simple projects. It is up to you to add a testing library, a bundler, or additional tooling if you decide that you need it for your project.
 
