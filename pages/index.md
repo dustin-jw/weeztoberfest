@@ -8,4 +8,4 @@ layout: default
 
 - Weezer (Blue Album)
 - Pinkerton
-- Weezer
+- Weezer (Green Album)
